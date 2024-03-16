@@ -661,9 +661,9 @@ h6 {
   width: 24%;
 }
 @media (max-width: 768px) {
-/*   .app-screenshort .mobile-phone {
+  .app-screenshort .mobile-phone {
     display: none;
-  } */
+  }
 }
 .swiper {
   width: 100%;
